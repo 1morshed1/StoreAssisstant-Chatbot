@@ -1,6 +1,6 @@
-# 🛍️ Clothes Store Assistant Chatbot
+# 🛍️ Store Assistant Chatbot
 
-A friendly AI-powered chatbot designed to assist customers in a clothing store, with a focus on promoting sales items and providing helpful shopping guidance.
+A friendly AI-powered chatbot designed to assist customers in a store, with a focus on promoting sales items and providing helpful shopping guidance.
 
 ## ✨ Features
 
